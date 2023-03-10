@@ -1,0 +1,35 @@
+h5>span {
+    color: #2cbc85;
+}
+
+h2>span {
+    color: #2cbc85;
+}
+
+li>a>span {
+    color: #2cbc85;
+}
+
+li>a {
+    color: white;
+}
+
+div>img {
+    background-color: white;
+}
+
+ul>li>span {
+    color: #2cbc85;
+}
+
+h6>span {
+    color: #2cbc85;
+}
+
+h4>span {
+    color: #2cbc85;
+}
+
+ol>li>span {
+    color: #2cbc85;
+}
