@@ -1,13 +1,16 @@
 h5>span {
     color: #2cbc85;
+    font-weight: bold;
 }
 
 h2>span {
     color: #2cbc85;
+    font-weight: bold;
 }
 
 li>a>span {
     color: #2cbc85;
+    font-weight: bold;
 }
 
 li>a {
@@ -20,16 +23,20 @@ div>img {
 
 ul>li>span {
     color: #2cbc85;
+    font-weight: bold;
 }
 
 h6>span {
     color: #2cbc85;
+    font-weight: bold;
 }
 
 h4>span {
     color: #2cbc85;
+    font-weight: bold;
 }
 
 ol>li>span {
     color: #2cbc85;
+    font-weight: bold;
 }
